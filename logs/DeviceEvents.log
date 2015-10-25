@@ -1,0 +1,5 @@
+[INFO_|10/15 12:42:06|StartupInit.preInitialization:144] Version: 2.6.0
+[INFO_|10/15 12:42:06|StartupInit.preInitialization:148] GTS_HOME: E:\Timepass\OpenGTS_2.6.0\OpenGTS_2.6.0
+[INFO_|10/15 12:42:06|OSTools.printMemoryUsage:1214] Memory-Mb: Max=247.5, Total=19.0, Free=10.4, Used=8.5 [3%]
+[INFO_|10/15 12:42:06|DCServerFactory._loadDCServerXML:642] DCServerConfig XML file not loaded: C:\xampp\tomcat\webapps\events\WEB-INF\dcservers.xml
+[INFO_|10/15 12:42:06|RTConfigContextListener.contextInitialized:246] java.awt.headless=false

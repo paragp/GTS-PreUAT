@@ -1,0 +1,24 @@
+[INFO_|10/15 12:42:10|StartupInit.preInitialization:144] Version: 2.6.0
+[INFO_|10/15 12:42:10|StartupInit.preInitialization:148] GTS_HOME: E:\Timepass\OpenGTS_2.6.0\OpenGTS_2.6.0
+[INFO_|10/15 12:42:10|OSTools.printMemoryUsage:1214] Memory-Mb: Max=247.5, Total=33.3, Free=1.4, Used=31.9 [13%]
+[INFO_|10/15 12:42:11|RTConfigContextListener.contextInitialized:246] java.awt.headless=false
+[INFO_|10/15 12:42:28|Track._doWork:1330] Login SysAdmin: sysadmin/admin [From 0:0:0:0:0:0:0:1]
+[INFO_|10/15 12:42:28|Audit.userLoginOK:149] Login(OK): Time=1444893148 Domain=default Account=sysadmin User=admin IP=0:0:0:0:0:0:0:1
+[INFO_|10/15 12:42:37|SysAdminAccounts$1.countSession:272] Logged-in User: sysadmin,admin
+[WARN_|10/15 12:43:30|ReportSpreadsheet.GetExcelSpreadsheetClass:68] Excel interface not supported: java.lang.ClassNotFoundException: org.opengts.util.ExcelTools$Spreadsheet
+[ERROR|10/15 12:43:34|ReportDisplay.writePage:541] Device not specified: EventDetail
+[INFO_|10/15 13:10:53|Track._doWork:1330] Login SysAdmin: sysadmin/admin [From 0:0:0:0:0:0:0:1]
+[INFO_|10/15 13:10:53|Audit.userLoginOK:149] Login(OK): Time=1444894853 Domain=default Account=sysadmin User=admin IP=0:0:0:0:0:0:0:1
+[INFO_|10/15 13:11:36|Track._doWork:1330] Login SysAdmin: sysadmin/admin [From 0:0:0:0:0:0:0:1]
+[INFO_|10/15 13:11:36|Audit.userLoginOK:149] Login(OK): Time=1444894896 Domain=default Account=sysadmin User=admin IP=0:0:0:0:0:0:0:1
+[INFO_|10/15 13:14:18|Track._doWork:1330] Login SysAdmin: sysadmin/hyd-user [From 0:0:0:0:0:0:0:1]
+[INFO_|10/15 13:14:18|Audit.userLoginOK:149] Login(OK): Time=1444895058 Domain=default Account=sysadmin User=hyd-user IP=0:0:0:0:0:0:0:1
+[INFO_|10/15 13:19:05|Track._doWork:1278] Invalid Password for Account: devicemonitor
+[INFO_|10/15 13:19:05|Track._doWork:1305] Login[Failed]: Domain=default Account=devicemonitor User=admin Time=1444895345 IPAddr=0:0:0:0:0:0:0:1
+[INFO_|10/15 13:19:05|Audit.userLoginFailed:158] Login(Failed): Time=1444895345 Domain=default Account=devicemonitor User=admin IP=0:0:0:0:0:0:0:1
+[INFO_|10/15 13:19:11|Track._doWork:1278] Invalid Password for Account: devicemonitor
+[INFO_|10/15 13:19:11|Track._doWork:1305] Login[Failed]: Domain=default Account=devicemonitor User=admin Time=1444895351 IPAddr=0:0:0:0:0:0:0:1
+[INFO_|10/15 13:19:11|Audit.userLoginFailed:158] Login(Failed): Time=1444895351 Domain=default Account=devicemonitor User=admin IP=0:0:0:0:0:0:0:1
+[INFO_|10/15 13:19:23|Track._doWork:1278] Invalid Password for Account: devicemonitor
+[INFO_|10/15 13:19:23|Track._doWork:1305] Login[Failed]: Domain=default Account=devicemonitor User=admin Time=1444895363 IPAddr=0:0:0:0:0:0:0:1
+[INFO_|10/15 13:19:23|Audit.userLoginFailed:158] Login(Failed): Time=1444895363 Domain=default Account=devicemonitor User=admin IP=0:0:0:0:0:0:0:1
